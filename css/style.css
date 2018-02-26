@@ -464,9 +464,10 @@ border-radius: 50%;
 }
 
 .background3 {
-background: url("../img/icons/dark_background.jpg") no-repeat ;
+background: url("../img/icons/river-3178335_1920.jpg") no-repeat ;
 height: 950px;
 width: 93.7em;
+padding-bottom: 100px;
 
 }
 .all2 {
@@ -505,6 +506,7 @@ width: 93.7em;
 
 .mak {
 	width: 1500px;
+	margin-top: 50px;
 }
 
 
@@ -529,7 +531,7 @@ h2 kek {
 	color: #FF5400;
 }
 .inform p {
-    font-size: 17px;
+    font-size: 18px;
 	width: 700px;
 	height: 600px;
 	color: #FBFFFB;
