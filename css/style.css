@@ -3,7 +3,7 @@ body {
 	color: #4d4d4d;
 	font-family: "Open Sans", Arial, sans-serif;
 	font-size: 16px;
-	margin:0;
+margin-top: -20px;
 
 }
 
@@ -165,12 +165,12 @@ header {
 
 .don {
 	
-	padding-top: 340px;
+	padding-top: 400px;
 	padding-bottom: 280px;
 	height: 1100px;
 	width: 1500px;
 	text-align: center;
-    background: url("../img/icons/blue.jpg") cover ;
+    background: url("../img/icons/blue.jpg") no-repeat ;
 }
 .about {
 	padding: 100px ;
