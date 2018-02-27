@@ -4,6 +4,7 @@ body {
 	font-family: "Open Sans", Arial, sans-serif;
 	font-size: 16px;
 margin-top: -20px;
+margin-right: 5px;
 
 }
 
@@ -170,7 +171,7 @@ header {
 	height: 1100px;
 	width: 1500px;
 	text-align: center;
-    background: url("../img/icons/blue.jpg") no-repeat ;
+    background: url("../img/icons/sunset-1113547_1920.jpg") no-repeat ;
 }
 .about {
 	padding: 100px ;
@@ -310,12 +311,12 @@ body{
 .clock{
 	margin-left: 950px;
 	margin-top: -40px;
-	padding-top: 350px;
+	padding-top: 200px;
  color: #396;
   font-weight: 200px;
   font-size: 40px;
   width: 400px;
-  height: 200px;
+  height: 10px;
   
 
 
@@ -356,7 +357,7 @@ body{
 .background2 {
 	width:1500px;
 	height: 800px;
-	background: url("../img/icons/Photo2.jpg") no-repeat;
+	background: url("../img/icons/tree-1992141_1920.jpg") no-repeat;
     position: relative;
     display: block;
     margin-right: 200px;
@@ -366,6 +367,12 @@ body{
 	max-width: 1170px;
 	margin:auto;
 	
+}
+.xz {
+	color: #CAF112;
+	line-height: 1.3em;
+	font-size: 30px;
+	padding-top: 100px;
 }
 
 .btn12 {
